@@ -1,0 +1,1 @@
+export const SEND_USER_SUCCESS = 'SEND_USER_SUCCESS';
